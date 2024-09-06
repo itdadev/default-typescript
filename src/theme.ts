@@ -1,5 +1,3 @@
-import { Theme } from "@emotion/react";
-
 // NOTE: 공통 이미지
 export const image = {};
 
